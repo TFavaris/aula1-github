@@ -7,6 +7,8 @@ public class Program {
 
 		System.out.println("TESTE");
 		
+		System.out.println("TESTE 2 GITHUB");
+		
 	}
 
 }
